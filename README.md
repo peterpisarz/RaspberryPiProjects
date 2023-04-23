@@ -3,7 +3,7 @@
 
 These projects originated from a course offered by 42Electronics.
 
-While much of the setup is identical, I have made significant indepenedent changes adding to their complexity and user experience.
+While much of the setup is identical, I have made significant independent changes adding to their complexity and user experience.
 
 2 sample projects are provided in this Repository:
 
