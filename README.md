@@ -1,4 +1,4 @@
-# RaspberryPiProjects
+# Raspberry Pi Projects
 ## Independent Raspberry Pi Projects
 
 These projects originated from a course offered by 42Electronics.
