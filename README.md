@@ -17,7 +17,7 @@ While much of the setup is identical, I have made significant independent change
 - System approves the "card" and illuminates a blue LED for verification
 - Code and Video provided
 
-## Level Shifter:
+### Level Shifter:
 - This project uses and Integrated Circuit(IC) to receive a 5V input and produce a 3.3V output
 - This is necessary to not overload the Raspberry Pi circuit
 - Infrared LED sensors monitor distance and have line tracking abilities
