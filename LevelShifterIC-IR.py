@@ -8,8 +8,8 @@ blue = 26
 
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(rgb, GPIO.OUT)
-GPIO.setup(21, GPIO.IN)
 GPIO.setup(20, GPIO.IN)
+GPIO.setup(21, GPIO.IN)
 
 try:
     while True:
