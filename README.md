@@ -16,3 +16,12 @@ While much of the setup is identical, I have made significant independent change
 - System denies the "tag" and sends a PWM signal to a piezo buzzer for user feedback
 - System approves the "card" and illuminates a blue LED for verification
 - Code and Video provided
+
+### Level Shifter:
+- This project uses and Integrated Circuit(IC) to receive a 5V input and produce a 3.3V output
+- This is necessary to not overload the Raspberry Pi circuit
+- Infrared LED sensors monitor distance and have line tracking abilities
+- The first sensor is a blind proximity sensor. When objects are close it gives an output and the RPi switches the LED to red
+- The second sensor is a line tracer. Once it identifies the black line, the LED will remain blue until it diverts
+- These types of sensors give sensory feedback to circuits about the real world.
+- See the video which is on the "video" branch of this repository.
